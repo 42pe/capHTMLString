@@ -12,6 +12,10 @@
     "build": "tsup"
   },
   "author": "Diego Ferreyra (@42pe)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:42pe/capHTMLString.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.5.11",
